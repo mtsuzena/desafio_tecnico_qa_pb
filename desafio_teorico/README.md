@@ -19,8 +19,6 @@ Com a colaboração do time, iniciaria criando um documento de estrategia de tes
 - Abordagem dos testes de regressão. Ex. Iremos executar regressão completa todas às noites? Regressão completa a cada merge na master? Apenas smoke test? Etc;
 - Quais serão as métricas utilizadas.
 
-Após essas 
-
 
 <br />
 
