@@ -11,13 +11,16 @@ Com a colaboração do time, iniciaria criando um documento de estrategia de tes
 
 - Quais os objetivos do teste;
 - Quais os padrões que serão seguidos;
-- Quais tipos de teste serão realizados em cada nivel de teste;
+- Quais tipos de teste serão realizados em cada nivel de teste. Ex. Teste funcional, Teste não funcional, Teste de Regressão, Teste de Confirmação, etc;
 - Quais critérios serão utilizados para definir se um teste será automatizado;
 - Quais ferramentas serão utilizadas no: gerenciamento de testes, na automação de testes, no gerenciamento de ambientes, e etc;
 - Quais e quantos ambientes teremos, ex. ambientes de teste, desenvolvimento, homologação, produção, etc;
 - Definição das funções e responsabilidades dos envolvidos;
 - Abordagem dos testes de regressão. Ex. Iremos executar regressão completa todas às noites? Regressão completa a cada merge na master? Apenas smoke test? Etc;
 - Quais serão as métricas utilizadas.
+
+Após essas 
+
 
 <br />
 
